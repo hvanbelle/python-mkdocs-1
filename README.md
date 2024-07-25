@@ -11,3 +11,5 @@
 - mkdocs serve
 - curl 'https://jaspervdj.be/lorem-markdownum/markdown.txt' > docs/about.md
 - mkdocs build
+- mkdocs --help
+- mkdocs build --help
